@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @notabugjustafeature
+- 👀 I’m interested in Programming and Cybersecurity
+- 🌱 I’m currently learning Javascript now that I have a pretty decent foundation in Python
+- 💞️ I’m looking to collaborate on Projects and plan to contribute to FOSS
+- 📫 How to reach me: N/A
